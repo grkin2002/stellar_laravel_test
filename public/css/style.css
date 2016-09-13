@@ -1,0 +1,17 @@
+.menu{
+	height:  100px;
+	marin:  0 auto;
+	padding: 50px 30px 20px 30px;
+	background-image: url(../images/bg-small.png);
+}
+
+li a{
+	color:  white;
+	font-size: 1.5em;
+	letter-spacing: 0.05em;
+	font-family: 'sans-serif';
+}
+
+.menu ul{
+	width: 100%;
+}
